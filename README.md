@@ -1,1 +1,7 @@
 # Library-Information-System
+
+BSIT 2B
+
+JP MOLINA
+JEROM RUELO
+ADRIAN CUNANAN
